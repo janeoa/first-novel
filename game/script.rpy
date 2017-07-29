@@ -52,10 +52,6 @@ label weather:
 
     jump continuee
 
-label continuee:
-
-    "to be continued"
-
 
 
     return
