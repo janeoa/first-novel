@@ -1,4 +1,4 @@
-Sat Jul 29 22:11:49 2017
+Sat Jul 29 22:42:32 2017
 Darwin-16.7.0-x86_64-i386-64bit
 Ren'Py 6.99.12.4.2187
  
@@ -10,7 +10,7 @@ Loading error handling took 0.01s
 Loading script took 0.09s
 Loading persistent took 0.00s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
-Running init code took 0.06s
+Running init code took 0.05s
 Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
 Index archives took 0.00s
@@ -25,17 +25,17 @@ Init translation took 0.00s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.01s
-Save screen analysis took 0.03s
+Save screen analysis took 0.04s
 Prepare screens took 0.05s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.03s
 Running _start took 0.00s
 Performance test:
-Interface start took 0.01s
+Interface start took 0.00s
 
 primary display bounds: (0, 0, 1440, 900)
 Windowed mode.
-Screen sizes: virtual=(800, 600) physical=(800, 600) drawable=(1600, 1200)
+Screen sizes: virtual=(800, 600) physical=(796, 597) drawable=(1592, 1194)
 Vendor: 'ATI Technologies Inc.'
 Renderer: 'AMD Radeon R9 M370X OpenGL Engine'
 Version: '2.1 ATI-1.51.8'
@@ -190,16 +190,16 @@ Texture testing:
 - 512px textures work.
 - 1024px textures work.
 - 2048px textures work.
-Total time until interface ready: 0.751713037491s
+Total time until interface ready: 0.746952056885s
 - Target is 5 frames in 0.333333333333 seconds.
 - Frame drawn at 0.000000 seconds.
-- Frame drawn at 0.014855 seconds.
-- Frame drawn at 0.034545 seconds.
-- Frame drawn at 0.047653 seconds.
-- Frame drawn at 0.063236 seconds.
-- 0.063236 seconds to render 5 frames.
+- Frame drawn at 0.022564 seconds.
+- Frame drawn at 0.033184 seconds.
+- Frame drawn at 0.046966 seconds.
+- Frame drawn at 0.063548 seconds.
+- 0.063548 seconds to render 5 frames.
 Cleaning stores took 0.00s
-Init translation took 0.07s
+Init translation took 0.06s
 Build styles took 0.00s
 Load screen analysis took 0.01s
 Analyze screens took 0.00s

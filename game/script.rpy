@@ -4,14 +4,18 @@
 # eg. image eileen happy = "eileen_happy.png"
 
 # Declare characters used by this game.
-define e = Character('Asset', color="#c8ffc8")
+define a = Character('Asset', color="#c8ffc8")
 
 
 # The game starts here.
 label start:
 
-    e "Yo! Salam from Asset!"
+    scene jpbg
 
-    e "Если ты видишь это сообщение, значит ты освоила git!"
+    a "О! Привет Дениз!"
+
+    show asset sprite
+
+    a "Если ты видишь это сообщение, значит ты освоила git!"
 
     return
