@@ -29,11 +29,7 @@ label denizzz:
 
     a "Если ты видишь это сообщение, значит ты освоила git!"
 
-    hide asset sprite
-
     show deniz2
-
-    hide deniz2
 
     show deniz2 at right
 
