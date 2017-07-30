@@ -12,6 +12,15 @@ define d = Character('Deniz', color="#c8ffc8")
 # The game starts here.
 label start:
 
+menu:
+    "играть за Асета":
+        jump denizzz
+
+    "play as Vriska":
+        jump Sburb
+
+label denizzz:
+
     scene jpbg
 
     a "О! Привет Дениз!"
